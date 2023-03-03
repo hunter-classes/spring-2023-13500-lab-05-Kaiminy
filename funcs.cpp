@@ -48,8 +48,9 @@ int countPrimes(int a, int b){
     if(isPrime(i)==true){
       num++;
     }
-    return num;
+   
   }
+  return num;
 }
 
 //task e
